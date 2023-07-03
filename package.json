@@ -1,0 +1,14 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/node": "^20.3.3"
+  },
+  "scripts": {
+    "run": "node ./dist/main.js"
+  },
+  "dependencies": {
+    "sqlite": "^4.2.1",
+    "sqlite3": "^5.1.6"
+  }
+}
